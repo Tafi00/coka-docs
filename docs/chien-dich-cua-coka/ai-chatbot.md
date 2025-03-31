@@ -26,7 +26,7 @@ Tính năng này giúp tối ưu quy trình chăm sóc khách hàng, cải thi�
 
 Ấn vào nút **"Thêm mới"**&#x20;
 
-<figure><img src="../.gitbook/assets/AIchatbot script.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-31 at 11.03.01.png" alt=""><figcaption></figcaption></figure>
 
 **+ Bước 1:** Nhập tên kịch bản&#x20;
 
@@ -51,4 +51,4 @@ Tính năng này giúp tối ưu quy trình chăm sóc khách hàng, cải thi�
 * **Bước 2:** Chỉnh sửa bất cứ nội dung nào bạn muốn như hướng dẫn tạo phía trên
 * **Bước 3:** Bấm **"Lưu"** để hoàn thành chỉnh sửa.
 
-<div><figure><img src="../.gitbook/assets/detail aichatbot.png" alt=""><figcaption><p>Kịch bản Ai chatbot</p></figcaption></figure> <figure><img src="../.gitbook/assets/saving detail aichatbot.png" alt=""><figcaption><p>Chi tiết kịch bản</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Screenshot 2025-03-31 at 11.05.58.png" alt=""><figcaption><p>Kịch bản Ai chatbot</p></figcaption></figure> <figure><img src="../.gitbook/assets/saving detail aichatbot.png" alt=""><figcaption><p>Chi tiết kịch bản</p></figcaption></figure></div>

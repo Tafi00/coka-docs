@@ -20,10 +20,42 @@ Bấm lưu để tạo không gian làm việc sau đó truy cập vào không g
 
 <figure><img src="../.gitbook/assets/Workspádaace.png" alt=""><figcaption><p>Màn hình Không gian làm việc</p></figcaption></figure>
 
-## 2. Mời thành viên tổ chức vào bên trong không gian làm việc
+## 2. Cấu hình và cài đặt không gian làm việc
 
-Ngoài ra bạn có thể vào cài đặt để thêm thành viên vào không gian làm việc của mình: Ấn vào tab cài đặt và ấn vào icon dấu cộng góc phải màn hình
+Ấn vào cài đặt sau đó chọn không gian làm việc muốn cấu hình
 
-<figure><img src="../.gitbook/assets/addmems ws.png" alt=""><figcaption><p>Cài đặt không gian làm việc</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-31 at 10.42.26.png" alt=""><figcaption><p>Cấu hình không gian làm việc</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/invite mems.png" alt="" width="563"><figcaption><p>Thêm thành viên</p></figcaption></figure>
+### **2.1 Thêm mới không gian làm việc**:
+
+* Nhấn vào nút **"+ Thêm mới"** để tạo mới không gian làm việc
+
+### **2.2 Chỉnh sửa không gian làm việc**:
+
+* Nhấn vào nút **"Chỉnh sửa"** để thay đổi thông tin, avatar không gian làm việc
+
+### **2.3 Quản lý nguồn khách hàng**
+
+* Xem danh sách nguồn khách hàng đã thu thập (Facebook Message, FBS, Zalo, v.v.).
+* Nhấn vào **"+ Thêm mới"** để thêm nguồn khách hàng mới.
+
+### **2.4 Quản lý nhãn khách hàng**
+
+* Khách hàng có thể được gắn các nhãn như **Cần bán, Cần thuê, Mua đầu tư**...
+* Nhấn vào **"+ Thêm mới"** để thêm nhãn mới theo nhu cầu cụ thể.
+
+### **2.5 Quản lý trạng thái khách hàng**
+
+* Hệ thống có các trạng thái mặc định như:\
+  \- **Tiềm năng**\
+  \- **Không tiềm năng**\
+  \- **Giao dịch**\
+  \- **Chưa xác định**
+* Nhấn vào **"+ Thêm trạng thái"** để bổ sung trạng thái mới.
+
+{% hint style="warning" %}
+#### Lưu ý:
+
+* Chỉ thành viên có quyền quản lý mới có thể chỉnh sửa hoặc thêm mới thông tin.
+* Luôn cập nhật trạng thái khách hàng để dễ dàng theo dõi và chăm sóc.
+{% endhint %}

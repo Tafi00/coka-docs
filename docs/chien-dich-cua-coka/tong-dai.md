@@ -19,7 +19,7 @@ layout:
 
 Tổng đài là tính năng cho phép người dùng quản lý và thực hiện các cuộc gọi đi và đến một cách tập trung, hỗ trợ chăm sóc khách hàng và bán hàng hiệu quả. Hệ thống này tích hợp nhiều chức năng như ghi âm cuộc gọi, và theo dõi hiệu suất theo thời gian thực, giúp cải thiện chất lượng dịch vụ, tối ưu quy trình tương tác với khách hàng.
 
-## II. Hướng dẫn sử dụng
+## II. Hướng dẫn kích hoạt và cấu hình
 
 ### 1. Kích hoạt gói tổng đài
 
@@ -106,3 +106,28 @@ Mỗi tài khoản sẽ có **đầu số mặc định**, tuy nhiên nếu ngư
 * **Bước 2:** Nhấn vào bất kỳ **"Lịch sử cuộc gọi"** nào để xem chi tiết
 
 <figure><img src="../.gitbook/assets/history callcenter.png" alt="" width="563"><figcaption><p>Lịch sử cuộc gọi</p></figcaption></figure>
+
+## III Hướng dẫn sử dụng&#x20;
+
+Sau khi kích hoạt thành công gói tổng đài, người dùng có thể gọi trực tiếp cho khách hàng hoặc quay số bên trong không gian làm việc.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-31 at 11.12.14.png" alt=""><figcaption></figcaption></figure>
+
+### 1. Gọi trực tiếp
+
+* Nhấn vào icon gọi điện để trực tiếp gọi điện cho khách hàng bạn muốn
+
+### 2. Quay số
+
+* Nhấn vào icon quay số để thực hiện quay số
+
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>Màn hình Quay số</p></figcaption></figure>
+
+* Chọn đầu số mong muốn
+* Nhập số điện thoại muốn gọi và thực hiện cuộc gọi
+
+### 3. Lưu kết quả cuộc gọi
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Kết quả cuộc gọi</p></figcaption></figure>
+
+* Sau khi cuộc gọi kết thúc, Nhân viên cần chọn trạng thái và ghi chú để lưu lại kết quả cuộc gọi

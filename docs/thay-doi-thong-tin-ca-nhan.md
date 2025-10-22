@@ -1,16 +1,5 @@
 ---
 hidden: true
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Thay đổi thông tin cá nhân

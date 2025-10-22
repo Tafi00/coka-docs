@@ -3,17 +3,6 @@ description: >-
   Đội Sale là tính năng cho phép tổ chức các nhóm bán hàng hoạt động bên trong
   từng không gian làm việc. Tính năng này giúp các sàn sale nhỏ phối hợp với
   nhau hiệu quả, tạo ra sự liên kết chặt chẽ.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🔸 Bước 5: Tạo đôi Sale

@@ -21,10 +21,10 @@ Khi bạn chọn xem chi tiết của bất kỳ khách hàng nào, hệ thống
 
 ## 2. Chăm sóc khách hàng
 
-Ngoài các công việc chăm sóc khách hàng thông thường , hệ thống còn tích hợp nhiều tính năng khác như [Ai Chatbot](../chien-dich-cua-coka/ai-chatbot.md), [Automation](../chien-dich-cua-coka/automation.md), [Tổng đài](../chien-dich-cua-coka/tong-dai.md).. để hỗ trợ người dùng chăm sóc khách hàng một cách tự động, chính xác và hiệu quả hơn.&#x20;
+Ngoài các công việc chăm sóc khách hàng thông thường , hệ thống còn tích hợp nhiều tính năng khác như [Ai Chatbot](../chien-dich-cua-coka/ai-chatbot.md), [Automation](../chien-dich-cua-coka/automation-old.md), [Tổng đài](../chien-dich-cua-coka/tong-dai.md).. để hỗ trợ người dùng chăm sóc khách hàng một cách tự động, chính xác và hiệu quả hơn.&#x20;
 
 * Ai Chatbot: Tại đây người dùng có thể tạo nhiều kịch bản chăm sóc khách hàng, với ngôn ngữ tự nhiên, thân thiện. Chatbot có thể thay thế người dùng chăm sóc cho khách hàng một cách tự động. [Xem thêm](../chien-dich-cua-coka/ai-chatbot.md)
-* Automation: Với nhiều kịch bản tự động khác nhau, người dùng có thể cấu hình theo ý mình giúp công việc trở nên 1 cách tự động hơn. [Xem thêm](../chien-dich-cua-coka/automation.md)
+* Automation: Với nhiều kịch bản tự động khác nhau, người dùng có thể cấu hình theo ý mình giúp công việc trở nên 1 cách tự động hơn. [Xem thêm](../chien-dich-cua-coka/automation-old.md)
 * Tổng đài: Tổng đài giúp người dùng dễ dàng liên lạc với khách hàng thông qua ứng dụng. Ngoài ra tích hợp các thống kê, kịch bản chăm sóc khách hàng, quay số hàng loạt.... [Xem thêm](../chien-dich-cua-coka/tong-dai.md)
 
 ## 3. Cập nhật trạng thái khách hàng

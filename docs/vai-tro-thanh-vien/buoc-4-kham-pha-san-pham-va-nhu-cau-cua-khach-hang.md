@@ -1,15 +1,5 @@
 ---
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+hidden: true
 ---
 
 # 🔸 Bước 4: Khám phá sản phẩm và nhu cầu của khách hàng

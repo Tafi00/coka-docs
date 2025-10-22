@@ -19,7 +19,7 @@
   * [🔸 AI Chatbot](chien-dich-cua-coka/ai-chatbot.md)
   * [🔸 Làm giàu dữ liệu](chien-dich-cua-coka/lam-giau-du-lieu.md)
   * [🔸 Automation Old](chien-dich-cua-coka/automation-old.md)
-  * [Automation](chien-dich-cua-coka/automation.md)
+  * [🔸 Automation](chien-dich-cua-coka/automation.md)
   * [🔸 Tổng đài](chien-dich-cua-coka/tong-dai.md)
   * [🔸 Gọi hàng loạt](chien-dich-cua-coka/goi-hang-loat.md)
 * [🔷 Tiện ích của COKA](tien-ich-cua-coka/README.md)

@@ -1,4 +1,4 @@
-# Automation
+# 🔸 Automation
 
 ## I. Giới thiệu tính năng
 
